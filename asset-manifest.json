@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-deploy/static/css/main.557669f6.css",
-    "main.js": "/react-deploy/static/js/main.b9181aa6.js",
+    "main.js": "/react-deploy/static/js/main.3016f59e.js",
     "static/media/hand-paint.jpg": "/react-deploy/static/media/hand-paint.af415ab19705b3ede7d5.jpg",
     "static/media/carousel3.jpg": "/react-deploy/static/media/carousel3.edc5492202fce291b5fb.jpg",
     "index.html": "/react-deploy/index.html",
     "main.557669f6.css.map": "/react-deploy/static/css/main.557669f6.css.map",
-    "main.b9181aa6.js.map": "/react-deploy/static/js/main.b9181aa6.js.map"
+    "main.3016f59e.js.map": "/react-deploy/static/js/main.3016f59e.js.map"
   },
   "entrypoints": [
     "static/css/main.557669f6.css",
-    "static/js/main.b9181aa6.js"
+    "static/js/main.3016f59e.js"
   ]
 }
